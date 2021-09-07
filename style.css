@@ -282,7 +282,7 @@ body .intro-container .intro-content .shop-now-btn {
 body .intro-container .intro-content .shop-now-btn .shop-now-arrow {
   width: 50px;
   height: 100%;
-  background-image: url("/images/icon-arrow.svg");
+  background-image: url("./images/icon-arrow.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
